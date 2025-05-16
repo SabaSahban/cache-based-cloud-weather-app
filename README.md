@@ -1,6 +1,6 @@
-# Cache-Based Cloud Weather Service
+# Cache-Based Weather Service
 
-This project implements a cloud-based weather service using Docker and Kubernetes. The system retrieves weather data from external APIs, caches the data using Redis for efficiency, and leverages container orchestration with Docker Compose.
+This project implements a web-based weather service using Docker and Kubernetes. The system retrieves weather data from external APIs, caches the data using Redis for efficiency, and leverages container orchestration with Docker Compose.
 
 ## Features
 - **Weather Data Retrieval:** Retrieves temperature data for cities from APIs such as WeatherAPI and Ninjas.
